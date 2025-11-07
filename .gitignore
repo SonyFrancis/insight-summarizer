@@ -6,3 +6,5 @@ __pycache__/
 *.parquet
 chroma_db/
 data/
+venv/
+
